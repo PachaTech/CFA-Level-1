@@ -1,3 +1,10 @@
+# Using the review notes in 2027
+
+The Economics and Financial Statement Analysis reviews follow the topics in the study index. The two Quant reviews now cover the reorganized return readings, with worked simulation, optimization and data-science examples in the longer notebook. [2027 study index](../2027-study-index.md)
+
+<details>
+<summary>Original Kaplan Schweser foreword (historical edition)</summary>
+
 # SECRET SAUCE
 
 # Foreword
@@ -15,3 +22,5 @@ Craig S. Prochaska, CFA
 Senior Manager, Content, Advanced Designations
 
 Kaplan Schweser
+
+</details>
